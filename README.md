@@ -17,7 +17,7 @@
 <br>
 <h3 align="left">Experience ;</h3>
 <br>
-- Game Developer (May 2022- August 2022) **Panda Game Studio**
+
 
 - Game Developer (March 2021-September 2021) **Kollektif Kariyer Merkezi**
 
