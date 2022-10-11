@@ -12,10 +12,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf2668&show_icons=true&theme=dark&text_color=f5cccc&locale=en&layout=compact" alt="yusuf2668" /></p>
-<br>
-<h3 align="left">Experience ;</h3>
-<br>
+
 
 
 - Game Developer (March 2021-September 2021) **Kollektif Kariyer Merkezi**
