@@ -24,3 +24,5 @@
 - Game Developer [Boss Factory](https://www.linkedin.com/posts/yusufbilalugur_arcadeidle-activity-6947548129663614976-RlEo?utm_source=share&utm_medium=member_desktop)
 
 - Game Developer (Freelancer) **FunByteGames**
+
+- Game Developer (May 2022- August 2022) **Panda Game Studio**
