@@ -16,7 +16,6 @@
 
 <br>
 <h3 align="left">Experience ;</h3>
-<br>
 
 
 - Game Developer (March 2021-September 2021) **Kollektif Kariyer Merkezi**
