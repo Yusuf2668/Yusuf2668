@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf Bilal Uğur</h1>
 <h3 align="center">A passionate Game Developer from Turkey</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
 - 📫 How to reach me **yusufbilal159@gmail.com**
 
